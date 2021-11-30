@@ -1,0 +1,102 @@
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\bin\Debug\GUI.exe.config
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\bin\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\bin\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\bin\Debug\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\bin\Debug\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.pvpForm.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\bin\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\GUI\obj\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.GameForm.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\bin\Debug\GUI.exe.config
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\bin\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\bin\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\bin\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\bin\Debug\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\bin\Debug\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.GameForm.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\bin\Debug\GUI.exe.config
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\bin\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\bin\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\bin\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\bin\Debug\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\bin\Debug\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\bin\Debug\GUI.exe.config
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\bin\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\bin\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\bin\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\bin\Debug\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\bin\Debug\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.GameForm.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\GUI\obj\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\bin\Debug\GUI.exe.config
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\bin\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\bin\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\bin\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\bin\Debug\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\bin\Debug\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.GameForm.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\GUI\obj\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\bin\Debug\GUI.exe.config
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\bin\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\bin\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\bin\Debug\GUI.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\bin\Debug\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\bin\Debug\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.GameForm.resources
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.exe.manifest
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.application
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.exe
+C:\Users\Monster\Desktop\TicTacToe\Final\GUI\obj\Debug\GUI.pdb

@@ -1,0 +1,32 @@
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.deps.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.runtimeconfig.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\bin\Release\netcoreapp3.1\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.22.11.12.20 - Copy\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.genruntimeconfig.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.exe
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.deps.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.runtimeconfig.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\DebugConsole.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\bin\Release\netcoreapp3.1\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\DebugConsole\obj\Release\netcoreapp3.1\DebugConsole.genruntimeconfig.cache

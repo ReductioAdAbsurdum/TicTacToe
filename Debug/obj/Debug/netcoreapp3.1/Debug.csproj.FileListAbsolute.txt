@@ -1,0 +1,16 @@
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\Debug.exe
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\Debug.deps.json
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.json
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\Debug.dll
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\bin\Debug\netcoreapp3.1\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.csproj.CopyComplete
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.dll
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\Debug\obj\Debug\netcoreapp3.1\Debug.genruntimeconfig.cache

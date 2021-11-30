@@ -1,0 +1,63 @@
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.deps.json
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfo.cs
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\source\repos\TicTacToeCore\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.deps.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.11.11.20 - Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.deps.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 - Copy\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.deps.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.21.13.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.deps.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.00.14.11.20 Working\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.deps.json
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\TicTacToeCore.02.14.11.20 Latest\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.deps.json
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\bin\Debug\netstandard2.0\TicTacToeCore.pdb
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csprojAssemblyReference.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.AssemblyInfo.cs
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.dll
+C:\Users\Monster\Desktop\TicTacToe\Final\TicTacToeCore\obj\Debug\netstandard2.0\TicTacToeCore.pdb
